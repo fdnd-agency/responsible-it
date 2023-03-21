@@ -9,7 +9,7 @@ Het lectoraat Responsible IT onderzoekt digitale technologie die goed is voor de
 
 ## Resources
 
-[Backlog]()     
+[Backlog](https://github.com/orgs/fdnd-agency/projects/15/)     
 [Design]()    
 [Styleguide]()   
 [Content]()     
