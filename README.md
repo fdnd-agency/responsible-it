@@ -4,45 +4,17 @@
 
 Hugo website for Responsible IT Amsterdam
 
-## 📖 Table of contents
-- [Responsible IT](#responsible-it)
-  - [👋 Description](#-description)
-  - [📖 Table of contents](#-table-of-contents)
-  - [💻Tech stack](#tech-stack)
-  - [🏃Install and setup](#install-and-setup)
-    - [Install](#install)
-    - [Run](#run)
-    - [Build](#build)
-  - [📶 Changelog](#-changelog)
+Het lectoraat Responsible IT onderzoekt digitale technologie die goed is voor de mens, de maatschappij en de planeet. Het lectoraat werkt aan een grote uitdaging: betere digitale technologie.
 
-   
-## 💻Tech stack
-- [Hugo v0.104 (min v0.41)](https://gohugo.io/installation/)
-- PostCSS
-- Node 16 
 
-## 🏃Install and setup
+## Resources
 
-### Install 
+[Backlog]()     
+[Design]()    
+[Styleguide]()   
+[Content]()     
 
-```
- $ npm install  
-```
 
-### Run 
-
-```
-$ npm run dev
-```
-
-### Build 
-
-```
-$ npm run build 
-```
-
-## 📶 Changelog
-- 1.00: Initial version
 
 
 
